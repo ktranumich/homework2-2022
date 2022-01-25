@@ -42,6 +42,7 @@ div{
     border-style: solid;
     border-color: #ffffff;
     border-width: 3px;
+    min-height: 100px;
 }
 
 .intro{
